@@ -6,6 +6,7 @@ My LeetCode solutions in Python, with notes on my approach to each problem.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Omar404X0/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Omar404X0/leetcode-solutions/tree/master/0007-reverse-integer) |
 ## Array
 |  |
@@ -19,4 +20,12 @@ My LeetCode solutions in Python, with notes on my approach to each problem.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Omar404X0/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Omar404X0/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Omar404X0/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
