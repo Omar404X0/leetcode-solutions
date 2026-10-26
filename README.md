@@ -11,6 +11,7 @@ My LeetCode solutions in Python, with notes on my approach to each problem.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Omar404X0/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Omar404X0/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -42,4 +43,8 @@ My LeetCode solutions in Python, with notes on my approach to each problem.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Omar404X0/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Omar404X0/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
