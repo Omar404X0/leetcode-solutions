@@ -47,4 +47,8 @@ My LeetCode solutions in Python, with notes on my approach to each problem.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omar404X0/leetcode-solutions/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Omar404X0/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
